@@ -30,7 +30,6 @@ Coming soon – deploy to Vercel or Netlify to try it live.
    ```bash
    git clone https://github.com/yourusername/testwood-return-checker.git
    cd testwood-return-checker
-npm install
-npm run dev
+
 
    
